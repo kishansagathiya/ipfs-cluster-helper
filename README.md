@@ -7,3 +7,5 @@ This script would
 - make sure that both cluster nodes are using different ports
 - make sure that both cluster nodes are using the same secret
 - run `daemon` for each cluster node in a different tab
+
+Run it with `source ipfs-cluster-helper.sh`
